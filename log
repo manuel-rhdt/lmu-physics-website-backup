@@ -1,0 +1,1094 @@
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/index.html
+Resolving www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)... 192.54.42.2, 2001:4ca0:4102:0:192:54:42:2
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/index.html’
+
+     0K .......... .......... .....                             571K=0.04s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:22 (571 KB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/index.html’ saved [25908]
+
+Loading robots.txt; please ignore errors.
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/robots.txt
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 404 Not Found
+2018-02-04 13:38:22 ERROR 404: Not Found.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/index.html’
+
+     0K .......... .......... .......                          2.15M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:22 (2.15 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/index.html’ saved [28548]
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/index.html’
+
+     0K .......... .......... ...                              2.75M=0.008s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:22 (2.75 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/index.html’ saved [23650]
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Exam/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Exam/index.html’
+
+     0K .......... .......... ..                               2.59M=0.009s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:22 (2.59 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Exam/index.html’ saved [23478]
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-0.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-0.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-1.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-1.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-2.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-2.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-3.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-3.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-4.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-4.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-5.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-5.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-6.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-6.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7extra.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7extra.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-8.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-8.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-9.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-9.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-10.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-10.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-11.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-11.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-12.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-12.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-13.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-13.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:22--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-14.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-14.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Deser.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Deser.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Skript_Hofmann_T3_2014.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Skript_Hofmann_T3_2014.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/index.html’
+
+     0K .......... .......... .........                        1.77M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:23 (1.77 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/index.html’ saved [30001]
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/folien/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/folien/index.html’
+
+     0K .......... .......... ....                             3.56M=0.007s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:23 (3.56 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/folien/index.html’ saved [25166]
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/uebungen/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/uebungen/index.html’
+
+     0K .......... .......... ...                              3.12M=0.007s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:23 (3.12 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/uebungen/index.html’ saved [24455]
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Organisation.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Organisation.pdf [following]
+--2018-02-04 13:38:23--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Organisation.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+Authentication selected: Basic realm="Vorlesungsskripte Studenten (login ohne @campus.lmu.de!)"
+Reusing existing connection to www.physik.uni-muenchen.de:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Organisation.pdf’ not modified on server. Omitting download.
+
+Loading robots.txt; please ignore errors.
+--2018-02-04 13:38:23--  https://www.physik.uni-muenchen.de/robots.txt
+Reusing existing connection to www.physik.uni-muenchen.de:443.
+HTTP request sent, awaiting response... 404 Not Found
+2018-02-04 13:38:23 ERROR 404: Not Found.
+
+--2018-02-04 13:38:23--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Grundlagen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Grundlagen.pdf [following]
+--2018-02-04 13:38:23--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Grundlagen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Grundlagen.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:24--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Kerneigenschaften.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Kerneigenschaften.pdf [following]
+--2018-02-04 13:38:24--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Kerneigenschaften.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Kerneigenschaften.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:24--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet.pdf [following]
+--2018-02-04 13:38:24--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:24--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet2.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet2.pdf [following]
+--2018-02-04 13:38:24--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet2.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet2.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:24--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/MaterieWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/MaterieWechselwirkung.pdf [following]
+--2018-02-04 13:38:25--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/MaterieWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/MaterieWechselwirkung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:25--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Detektoren.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Detektoren.pdf [following]
+--2018-02-04 13:38:25--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Detektoren.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Detektoren.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:25--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Beschleuniger.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Beschleuniger.pdf [following]
+--2018-02-04 13:38:25--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Beschleuniger.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Beschleuniger.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:26--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Elektronenstreuung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Elektronenstreuung.pdf [following]
+--2018-02-04 13:38:26--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Elektronenstreuung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Elektronenstreuung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:26--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/TiefinelastischeStreuung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/TiefinelastischeStreuung.pdf [following]
+--2018-02-04 13:38:26--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/TiefinelastischeStreuung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/TiefinelastischeStreuung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:26--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Hadronen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Hadronen.pdf [following]
+--2018-02-04 13:38:26--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Hadronen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Hadronen.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:26--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Symmetrien.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Symmetrien.pdf [following]
+--2018-02-04 13:38:26--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Symmetrien.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Symmetrien.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:27--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/SchwacheWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/SchwacheWechselwirkung.pdf [following]
+--2018-02-04 13:38:27--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/SchwacheWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/SchwacheWechselwirkung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:27--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/ElektroschwacheWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/ElektroschwacheWechselwirkung.pdf [following]
+--2018-02-04 13:38:27--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/ElektroschwacheWechselwirkung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/ElektroschwacheWechselwirkung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:27--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt1.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt1.pdf [following]
+--2018-02-04 13:38:27--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt1.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt1.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:28--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2.pdf [following]
+--2018-02-04 13:38:28--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:28--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2-Englisch.pdf [following]
+--2018-02-04 13:38:28--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2-Englisch.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:28--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3.pdf [following]
+--2018-02-04 13:38:28--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:28--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3-Englisch.pdf [following]
+--2018-02-04 13:38:28--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3-Englisch.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:29--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4.pdf [following]
+--2018-02-04 13:38:29--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:29--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4-Englisch.pdf [following]
+--2018-02-04 13:38:29--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4-Englisch.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:29--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5.pdf [following]
+--2018-02-04 13:38:29--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:29--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5-Englisch.pdf [following]
+--2018-02-04 13:38:29--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5-Englisch.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:30--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6.pdf [following]
+--2018-02-04 13:38:30--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:30--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6-Englisch.pdf [following]
+--2018-02-04 13:38:30--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6-Englisch.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6-Englisch.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/index.html
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/index.html’
+
+     0K .......... .......... ....                              657K=0.04s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:31 (657 KB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/index.html’ saved [25446]
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/dozent/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/dozent/index.html’
+
+     0K .......... .......... ...                              5.60M=0.004s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:31 (5.60 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/dozent/index.html’ saved [23835]
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/termine/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/termine/index.html’
+
+     0K .......... .......... ....                             2.36M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:31 (2.36 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/termine/index.html’ saved [25365]
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/index.html’
+
+     0K .......... .......... .......                          2.99M=0.009s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:31 (2.99 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/index.html’ saved [28062]
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/vorlesung/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/vorlesung/index.html’
+
+     0K .......... .......... ......                           2.70M=0.01s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:31 (2.70 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/vorlesung/index.html’ saved [27012]
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-3.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-3.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-5.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-5.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-7.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-7.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-11.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-11.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-12.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-12.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Stichwortliste_Klausur.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Stichwortliste_Klausur.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-2.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-2.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-4.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-4.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-6.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-6.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-8.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-8.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-9.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-9.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-10.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-10.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Probeklausur.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Probeklausur.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:31--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-II.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-II.pdf [following]
+--2018-02-04 13:38:31--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-II.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-II.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:32--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-I.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-I.pdf [following]
+--2018-02-04 13:38:32--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-I.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-I.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:32--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/2DEG.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/2DEG.pdf [following]
+--2018-02-04 13:38:32--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/2DEG.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/2DEG.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:32--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Thermische_Eigenschaften.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Thermische_Eigenschaften.pdf [following]
+--2018-02-04 13:38:32--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Thermische_Eigenschaften.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Thermische_Eigenschaften.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:33--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Phononen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Phononen.pdf [following]
+--2018-02-04 13:38:33--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Phononen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Phononen.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:33--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fluessigkristalle.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fluessigkristalle.pdf [following]
+--2018-02-04 13:38:33--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fluessigkristalle.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fluessigkristalle.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:33--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Beugung-am-Kristall.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Beugung-am-Kristall.pdf [following]
+--2018-02-04 13:38:33--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Beugung-am-Kristall.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Beugung-am-Kristall.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:33--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fehlordnung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fehlordnung.pdf [following]
+--2018-02-04 13:38:34--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fehlordnung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fehlordnung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:34--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/kristallstrukturen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/kristallstrukturen.pdf [following]
+--2018-02-04 13:38:34--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/kristallstrukturen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/kristallstrukturen.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:34--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Quasikristalle.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Quasikristalle.pdf [following]
+--2018-02-04 13:38:34--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Quasikristalle.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Quasikristalle.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:34--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/TEMAnalytik.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/TEMAnalytik.pdf [following]
+--2018-02-04 13:38:34--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/TEMAnalytik.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/TEMAnalytik.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:35--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Doppelbrechung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Doppelbrechung.pdf [following]
+--2018-02-04 13:38:35--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Doppelbrechung.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Doppelbrechung.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:36--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Bindungen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Bindungen.pdf [following]
+--2018-02-04 13:38:36--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Bindungen.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Bindungen.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:36--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Festkoerperphysik-fuer-Bachelor-_E6__infosWS1718.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Festkoerperphysik-fuer-Bachelor-_E6__infosWS1718.pdf [following]
+--2018-02-04 13:38:37--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Festkoerperphysik-fuer-Bachelor-_E6__infosWS1718.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Festkoerperphysik-fuer-Bachelor-_E6__infosWS1718.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Helium_superfluid.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Helium_superfluid.pdf [following]
+--2018-02-04 13:38:37--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Helium_superfluid.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Helium_superfluid.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/index.html
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/index.html’
+
+     0K .......... .......... .......                           357K=0.08s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:37 (357 KB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/index.html’ saved [27974]
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/news/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/news/index.html’
+
+     0K .......... .......... ......                           10.4M=0.003s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:37 (10.4 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/news/index.html’ saved [27336]
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/index.html’
+
+     0K .......... .......... .........                        4.04M=0.007s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:37 (4.04 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/index.html’ saved [30519]
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/index.html
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/index.html’
+
+     0K .......... .......... ....                             4.06M=0.006s
+
+Last-modified header missing -- time-stamps turned off.
+2018-02-04 13:38:37 (4.06 MB/s) - ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/index.html’ saved [25488]
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_21022018.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_21022018.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_19032018.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_19032018.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_01.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_01.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:37--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_02.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_02.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/Uebung-3.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/Uebung-3.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_04.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_04.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_05.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_05.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/errata_04.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/errata_04.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_06.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_06.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_07.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_07.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet08.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet08.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_09.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_09.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet10.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet10.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_11.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_11.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_12.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_12.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungsbetrieb.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungsbetrieb.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter1and2.pdf
+Reusing existing connection to www.physik.uni-muenchen.de:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter1and2.pdf [following]
+--2018-02-04 13:38:38--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter1and2.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter1and2.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:38--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter3and4.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter3and4.pdf [following]
+--2018-02-04 13:38:38--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter3and4.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter3and4.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:39--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter5.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter5.pdf [following]
+--2018-02-04 13:38:39--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter5.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter5.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:39--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter6.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter6.pdf [following]
+--2018-02-04 13:38:39--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter6.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter6.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:39--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter7.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter7.pdf [following]
+--2018-02-04 13:38:39--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter7.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter7.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:39--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter8.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter8.pdf [following]
+--2018-02-04 13:38:39--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter8.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter8.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:40--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter9.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter9.pdf [following]
+--2018-02-04 13:38:40--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter9.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter9.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:40--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter10and11.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter10and11.pdf [following]
+--2018-02-04 13:38:40--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter10and11.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter10and11.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:40--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter12.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter12.pdf [following]
+--2018-02-04 13:38:40--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter12.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter12.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:40--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter13.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter13.pdf [following]
+--2018-02-04 13:38:41--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter13.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter13.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:41--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter14.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter14.pdf [following]
+--2018-02-04 13:38:41--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter14.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter14.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:41--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter15to17.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter15to17.pdf [following]
+--2018-02-04 13:38:41--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter15to17.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter15to17.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:41--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter18.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter18.pdf [following]
+--2018-02-04 13:38:41--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter18.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter18.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:42--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter19.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter19.pdf [following]
+--2018-02-04 13:38:42--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter19.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter19.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:42--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter20new.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter20new.pdf [following]
+--2018-02-04 13:38:42--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter20new.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter20new.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:42--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter21to23.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter21to23.pdf [following]
+--2018-02-04 13:38:42--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter21to23.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter21to23.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:43--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter24.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter24.pdf [following]
+--2018-02-04 13:38:43--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter24.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter24.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:43--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter25.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter25.pdf [following]
+--2018-02-04 13:38:43--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter25.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter25.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:43--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter26.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter26.pdf [following]
+--2018-02-04 13:38:43--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter26.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter26.pdf’ not modified on server. Omitting download.
+
+--2018-02-04 13:38:43--  http://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter27.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter27.pdf [following]
+--2018-02-04 13:38:43--  https://www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter27.pdf
+Connecting to www.physik.uni-muenchen.de (www.physik.uni-muenchen.de)|192.54.42.2|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter27.pdf’ not modified on server. Omitting download.
+
+FINISHED --2018-02-04 13:38:44--
+Total wall clock time: 22s
+Downloaded: 16 files, 412K in 0.3s (1.51 MB/s)
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/index.html... 9-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter7.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-4.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/TiefinelastischeStreuung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Beschleuniger.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-14.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-12.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_02.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-3.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/index.html... 7-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Phononen.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/MaterieWechselwirkung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Grundlagen.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungsbetrieb.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet2.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Organisation.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Helium_superfluid.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter3and4.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Skript_Hofmann_T3_2014.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter14.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5-Englisch.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter5.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-2.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-12.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_09.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-10.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-1.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Bindungen.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Kerneigenschaften.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt6-Englisch.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter27.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7extra.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/Uebung-3.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-II.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-9.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter12.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter21to23.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Quasikristalle.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-10.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_07.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-8.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/index.html... 23-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter25.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/dozent/index.html... 8-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/SchwacheWechselwirkung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Thermische_Eigenschaften.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-7.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter19.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Elektronenstreuung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_11.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter15to17.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_05.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/news/index.html... 7-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-6.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt4-Englisch.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/2DEG.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/TEMAnalytik.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-5.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter8.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/uebungen/index.html... 18-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_21022018.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-4.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/folien/index.html... 20-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/termine/index.html... 8-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fehlordnung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Elektronische-Eigenschaften-I.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter6.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-3.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-13.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-11.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_01.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-2.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/index.html... 27-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt5.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/vorlesung/Deser.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Symmetrien.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/index.html... 6-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter13.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Stichwortliste_Klausur.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3-Englisch.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Doppelbrechung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-11.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter20new.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-9.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-0.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Hadronen.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/vorlesung/index.html... 23-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/ElektroschwacheWechselwirkung.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt3.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/WiSe2017_18_T4_Thermodynamik_Statistische-Physik_19032018.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/index.html... 5-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Beugung-am-Kristall.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet08.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Exam/index.html... 7-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter26.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Festkoerperphysik-fuer-Bachelor-_E6__infosWS1718.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-8.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_12.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/index.html... 21-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_06.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter1and2.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-7.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt1.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Stabilitaet.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter24.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter18.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Uebungsblatt-6.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/index.html... 12-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/errata_04.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter9.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/uebung/Probeklausur.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/kristallstrukturen.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/index.html... 21-41
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet_04.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/tvi_tc1_gr/Tutorials/Problem-Sheet-5.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/Detektoren.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/materialien/_auth/Chapter10and11.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E5/_studenten/E5-Blatt2-Englisch.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/E6_p/_studenten/Fluessigkristalle.pdf... nothing to do.
+Converting links in www.physik.uni-muenchen.de/lehre/vorlesungen/wise_17_18/T4_stat_mech/uebungen/sheet10.pdf... nothing to do.
+Converted links in 123 files in 0.6 seconds.
