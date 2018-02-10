@@ -462,23 +462,6 @@
         </ul>
         </div>
     </div>
-<div class="g-service-item service-events">
-    <h2 class="g-service-hd">KOLLOQUIEN</h2>
-    <div class="g-service-bd g-padding-xs g-fontsize-s">
-            <h3 class="g-color-medium">
-                09.02.2018
-            </h3>
-            <ul class="g-ul-s events">
-                <li>
-                        <a href="http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/index.html" title="Kleiner Physik-Hörsaal N 020, Fakultät für Physik">
-                            <b>CeNS Seminar</b>
-                        </a>
-                        <br>
-                        <a href="http://www.physik.uni-muenchen.de/aus_der_fakultaet/kolloquien/cens_seminar/2018-2-9_silva/index.html" title="Kleiner Physik-Hörsaal N 020, Fakultät für Physik">Sensing and Logic: Stories about You</a>
-                </li>
-            </ul>
-    </div>
-</div>
 
             <!-- isImage für Banner-bel.-Links oder normale bel. Links setzten: richtet sich nach der Klasse des ersten Listenelements -->
             <!-- Ausgabe: Normale bel. Links mit Header-Ueberschrift -->
