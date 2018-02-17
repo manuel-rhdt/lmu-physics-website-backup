@@ -3,7 +3,7 @@
 <html lang="de">
 <head><meta name="generator" content="Infopark CMS Fiona; 6.9.0; 53616c7465645f5fb14a315e7e8b33048d3c428086aedb09">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-            <title>Übungsaufgaben - Fakultät für Physik - LMU München</title>
+            <title>Klausurergebnisse - Fakultät für Physik - LMU München</title>
 <meta name="DC.language" content="de">
 <meta name="DC.lmuSiteName" content="Fakultät für Physik">
 <link rel="shortcut icon" href="../../../../../favicon.ico" type="image/x-icon">
@@ -45,13 +45,13 @@
 <!-- End Piwik Code -->
 </head>
 <body id="top">
-<div id="page" class="page page-lehre page-lehre-vorlesungen page-lehre-vorlesungen-wise1718 page-lehre-vorlesungen-wise1718-E5 page-lehre-vorlesungen-wise1718-E5-uebungen page-standard page-143297888">
-<div id="home" class="home kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-uebungen">
+<div id="page" class="page page-lehre page-lehre-vorlesungen page-lehre-vorlesungen-wise1718 page-lehre-vorlesungen-wise1718-E5 page-lehre-vorlesungen-wise1718-E5-klausur page-standard page-149160821">
+<div id="home" class="home kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-klausur">
 <a href="../../../../../index.html" title="Fakultät für Physik"> <img src="//cms-static.uni-muenchen.de/default/lmu/img/blank.png" class="home-img" alt="Fakultät für Physik" title="Fakultät für Physik"> </a>
 </div>
 <div class="logo-print"> <img border="0" src="//cms-static.uni-muenchen.de/default/lmu/img/header-print.gif" alt="print"> </div>
 <hr class="g-hidden">
-<div id="bar" class="mod-bar kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-uebungen">
+<div id="bar" class="mod-bar kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-klausur">
             <div id="search" class="m-block m-block-search">
                 <h6 class="g-area-heading area-heading">
                     Suche
@@ -94,7 +94,7 @@
     <div class="g-clear"></div>
 </div>
 <hr class="g-hidden">
-<div id="bc" class="mod-bc kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-uebungen">
+<div id="bc" class="mod-bc kopfbild kopfbild-lehre kopfbild-lehre-vorlesungen kopfbild-lehre-vorlesungen-wise1718 kopfbild-lehre-vorlesungen-wise1718-E5 kopfbild-lehre-vorlesungen-wise1718-E5-klausur">
     <h6 class="g-area-heading area-heading">Navigationspfad</h6>
         <ul class="m-list">
                         <li class="m-item m-first">
@@ -113,7 +113,7 @@
                             <a href="../index.html" class="m-link">E5-E5p: Kern- und Teilchenphysik</a>
                     </li>
                         <li class="m-item">
-                                Übungsaufgaben
+                                Klausurergebnisse
                     </li>
         </ul>
         <div class="g-clear"></div>
@@ -230,7 +230,7 @@
         <hr class="g-hidden">
     </div>
         <h6 class="g-area-heading area-heading">Inhaltsbereich</h6>
-    <h1 class="g-h1 titel">E5-E5p: Kern- und Teilchenphysik &ndash; Übungsaufgaben</h1>
+    <h1 class="g-h1 titel">E5-E5p: Kern- und Teilchenphysik &ndash; Klausurergebnisse</h1>
 <div class="mod-tabnav">
     <ul class="m-tabnav-list">
             <li class="m-tabnav-item">
@@ -243,52 +243,25 @@
                                     Vorlesungsmaterial
                                 </a>
                             </li>
-                            <li class="m-tabnav-item m-tabnav-item-selected">
-                                Übungsaufgaben
-                            </li>
                             <li class="m-tabnav-item">
-                                <a href="../klausur/index.html" class="m-tabnav-link">
-                                    Klausurergebnisse
+                                <a href="../uebungen/index.html" class="m-tabnav-link">
+                                    Übungsaufgaben
                                 </a>
+                            </li>
+                            <li class="m-tabnav-item m-tabnav-item-selected">
+                                Klausurergebnisse
                             </li>
     </ul>
     <div class="m-tabnav-line"></div>
 </div>
             <div class="user-html hauptinhalt">
-            <p>Um die pdf-Dateien der &Uuml;bungsaufgaben herunterladen zu k&ouml;nnen. m&uuml;ssen Sie sich mit Ihrer Campus-Kennung einloggen.</p>
-<table class="table" border="0">
-<tbody>
-<tr><th scope="col"><strong>Datum</strong></th><th scope="col"><strong>Aufgabenzettel</strong></th></tr>
-<tr>
-<td>24.-30.10.17</td>
-<td><a href="../_studenten/E5-Blatt1.pdf" title="E5-Blatt1">Blatt 1</a></td>
-</tr>
-<tr>
-<td>07.-13.11.17</td>
-<td><a href="../_studenten/E5-Blatt2.pdf" title="E5-Blatt2">Blatt 2</a> (<a href="../_studenten/E5-Blatt2-Englisch.pdf" title="E5-Blatt2-Englisch">English</a>)</td>
-</tr>
-<tr>
-<td>21.-27.11.17</td>
-<td><a href="../_studenten/E5-Blatt3.pdf" title="E5-Blatt3">Blatt 3</a> (<a href="../_studenten/E5-Blatt3-Englisch.pdf" title="E5-Blatt3-Englisch">English</a>)</td>
-</tr>
-<tr>
-<td>05.-11.12.17</td>
-<td><a href="../_studenten/E5-Blatt4.pdf" title="E5-Blatt4">Blatt 4</a> (<a href="../_studenten/E5-Blatt4-Englisch.pdf" title="E5-Blatt4-Englisch">English</a>)</td>
-</tr>
-<tr>
-<td>19.12.17-08.01.18</td>
-<td><a href="../_studenten/E5-Blatt5.pdf" title="E5-Blatt5">Blatt 5</a> (<a href="../_studenten/E5-Blatt5-Englisch.pdf" title="E5-Blatt5-Englisch">English</a>)</td>
-</tr>
-<tr>
-<td>16.01.-22.01.18</td>
-<td><a href="../_studenten/E5-Blatt6.pdf" title="E5-Blatt6">Blatt 6</a> (<a href="../_studenten/E5-Blatt6-Englisch.pdf" title="E5-Blatt6-Englisch">English</a>)</td>
-</tr>
-<tr>
-<td>30.01.-05.02.18</td>
-<td>Nur Pr&auml;senz&uuml;bungen<a href="../_studenten/E5-Blatt6.pdf" title="E5-Blatt6"></a></td>
-</tr>
-</tbody>
-</table>
+            <p><strong>Klausurergebnisse zur Vorlesung E5</strong></p>
+<p>Um die Ergebnislisten herunterladen zu k&ouml;nnen. m&uuml;ssen Sie sich mit Ihrer Campus-Kennung einloggen.</p>
+<ul>
+<li><a href="../_studenten/ErgebnisE5.txt" title="ErgebnisE5">Ergebnisliste der E5-Klausur</a> (Stand 17.02.2018)</li>
+<li><a href="../_studenten/ErgebnisE5p.txt" title="ErgebnisE5p">Ergebnisliste der E5p-Klausur</a> (Stand 17.02.2018)</li>
+</ul>
+<p><strong>Eine Klausureinsicht ist m&ouml;glich am Freitag, den 23.02.2017 von 10:00 bis 11:00 Uhr im Seminarraum des Universe-Cluster-Geb&auml;udes, Boltzmannstr. 2, Garching.</strong></p>
             <div class="g-clear"></div>
         </div>
         <div id="cFn2" class="mod mod-cfn mod-cfn-2">
