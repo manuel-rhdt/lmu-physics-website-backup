@@ -254,7 +254,14 @@
     </ul>
     <div class="m-tabnav-line"></div>
 </div>
+            <h2 class="g-h2 uebungsblaetter">Exercise sheets</h2>
         <ul class="g-ul">
+            <li class="g-pdf">
+                    <a href="GR_1718_exam_result.pdf">GR_1718_exam_result</a>
+                    <span class="g-color-light">(42 KByte)</span>
+                    <p class="g-color-medium g-fontsize-s">
+                    </p>
+            </li>
         </ul>
             <div class="user-html hauptinhalt">
             <p style="text-align: center;"></p>
